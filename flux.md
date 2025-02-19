@@ -10,6 +10,7 @@
 
 ```bash
 kubectl get gitrepo -n flux-system
+kubectl get kustomizations  -A
 ```
 
 **Git Repository**
